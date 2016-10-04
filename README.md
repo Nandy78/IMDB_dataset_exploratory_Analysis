@@ -1,2 +1,2 @@
-# IMDB_dataset_exploratory_Analysis
+# IMDB_dataset_prediction and Analysis
 exploratory analysis on IMDB dataset on Kaggle.
